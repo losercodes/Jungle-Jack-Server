@@ -1,5 +1,5 @@
-# A Javascript Chatbot uilt with Gemini
 
-A functional chatbot built with the Gemini AI
 
-Link to the YouTube video: [Build and deploy your own ChatBot with Gemini (Complete Tutorial)🚀](https://youtu.be/1AJbhLBBPHU)
+A functionalMIni Ai built with LLM of Chat-gpt,Gemini,Aria,MIstral-7A and B;
+
+
