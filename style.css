@@ -659,7 +659,7 @@ video {
 }
 
 .bg-gemRegular\/40 {
-  background-color: rgb(161 217 155 / 0.4);
+  background-color: azure;
 }
 
 .p-3 {
@@ -699,7 +699,7 @@ video {
 
 .text-gemDeep {
   --tw-text-opacity: 1;
-  color: rgb(49 163 84 / var(--tw-text-opacity));
+  color: rgb(49 1 84 / var(--tw-text-opacity));
 }
 
 .text-white {
