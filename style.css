@@ -648,12 +648,14 @@ video {
 
 .bg-gemRegular {
   --tw-bg-opacity: 1;
-  background-color: rgb(161 217 155 / var(--tw-bg-opacity));
+  background-color: rgb(61 457 675 / var(--tw-bg-opacity));
+
+  
 }
 
 .bg-gemDeep {
   --tw-bg-opacity: 1;
-  background-color: rgb(49 163 84 / var(--tw-bg-opacity));
+  background-color: rgb(49 63 34 / var(--tw-bg-opacity));
 }
 
 .bg-gemRegular\/40 {
@@ -702,7 +704,7 @@ video {
 
 .text-white {
   --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  color: rgb(255 255 355 / var(--tw-text-opacity));
 }
 
 .shadow-md {
